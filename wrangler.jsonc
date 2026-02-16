@@ -1,5 +1,8 @@
 {
-	"name": "worker-name",
-	"compatibility_date": "2026-02-16",
-	"main": "src/index.ts"
+  "name": "OhCrumbs"
+",
+  "compatibility_date": "2026-02-16",
+    "assets": {
+      "directory": "./_site"
+    }
 }
